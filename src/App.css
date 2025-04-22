@@ -1,0 +1,30 @@
+/* button {
+  background:rgb(71, 185, 208)
+} */
+
+/* .conBook:hover {
+  box-shadow: 10px 8px 12px black;
+} */
+
+body {
+  position: absolute;
+  right: 550px;
+  left: 550px;
+}
+.container1 {
+  display: flex;
+  gap: 80px;
+  width: 400px;
+  align-items: center;
+  background: rgb(245, 241, 241);
+  border: 1px solid white;
+  padding: 8px;
+}
+
+.container {
+  box-shadow: 10px 10px 15px gray;
+  padding: 50px;
+  border: 1px solid gainsboro;
+  text-align: center;
+  background: white;
+}
